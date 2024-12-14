@@ -125,7 +125,7 @@ docker rm my-redis
 ## Project Structure
 ```
 redis-node-app/
-├── app.js          # Main application file
+├── index.js          # Main application file
 ├── package.json    # Dependencies
 └── README.md      # Documentation
 ```
